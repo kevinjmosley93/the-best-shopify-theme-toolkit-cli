@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A React + Vite Shopify Theme building cli to speed up Shopify Theme development",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "cli": "node index.js"
   },
