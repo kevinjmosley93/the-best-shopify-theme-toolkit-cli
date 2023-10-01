@@ -23,7 +23,7 @@ export async function init() {
         p.text({
           message: `What directory would you like to install your files?`,
           placeholder:
-            "use '.' for current directory or something like './example-folder'",
+            "./example-folder",
         }),
       ranScript: async ({ results }) => {
         shell.exec(`
