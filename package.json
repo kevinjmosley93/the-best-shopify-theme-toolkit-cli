@@ -1,0 +1,19 @@
+{
+  "name": "best-shopify-theme-toolkit",
+  "version": "1.0.0",
+  "description": "A React + Vite Shopify Theme building cli to speed up Shopify Theme development",
+  "main": "index.js",
+  "scripts": {
+    "run-cli": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinjmosley93/the-best-shopify-theme-toolkit-cli.git"
+  },
+  "author": "Kevin J Mosley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinjmosley93/the-best-shopify-theme-toolkit-cli/issues"
+  },
+  "homepage": "https://github.com/kevinjmosley93/the-best-shopify-theme-toolkit-cli#readme"
+}
