@@ -4,7 +4,7 @@
   "description": "A React + Vite Shopify Theme building cli to speed up Shopify Theme development",
   "main": "index.js",
   "scripts": {
-    "run-cli": "node index.js"
+    "cli": "node index.js"
   },
   "repository": {
     "type": "git",
