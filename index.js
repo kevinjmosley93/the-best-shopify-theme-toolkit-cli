@@ -79,3 +79,7 @@ export async function init() {
   );
 }
 await init();
+
+module.exports = {
+  init,
+};
